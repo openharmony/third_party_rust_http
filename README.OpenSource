@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "http",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.2.8",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/hyperium/http",
+    "Description": "A set of types for representing HTTP requests and responses."
+  }
+]
